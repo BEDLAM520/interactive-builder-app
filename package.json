@@ -1,0 +1,24 @@
+{
+  "name": "interactive-builder-app",
+  "version": "1.0.0",
+  "description": "An interactive product builder customizations mobile app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BEDLAM520/interactive-builder-app.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "BEDLAM520",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/BEDLAM520/interactive-builder-app/issues"
+  },
+  "homepage": "https://github.com/BEDLAM520/interactive-builder-app#readme"
+}
